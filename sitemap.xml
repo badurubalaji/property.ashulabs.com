@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  <url>
+    <loc>https://property.ashulabs.com/</loc>
+    <lastmod>2026-03-13</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://property.ashulabs.com/images/og-banner.jpg</image:loc>
+      <image:title>3BHK Apartment at Sanaathana Chamanthi, Whitefield, Bangalore</image:title>
+      <image:caption>Premium 3BHK apartment with swimming pool view for sale in Whitefield</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://property.ashulabs.com/images/living-room-1.jpg</image:loc>
+      <image:title>Living Room - 3BHK Sanaathana Chamanthi</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://property.ashulabs.com/images/living-room-2.jpg</image:loc>
+      <image:title>Living Room View - 3BHK Sanaathana Chamanthi</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://property.ashulabs.com/images/master-bedroom.jpg</image:loc>
+      <image:title>Master Bedroom - 3BHK Sanaathana Chamanthi</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://property.ashulabs.com/images/modular-kitchen.jpg</image:loc>
+      <image:title>Modular Kitchen - 3BHK Sanaathana Chamanthi</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://property.ashulabs.com/images/balcony-view.jpg</image:loc>
+      <image:title>Balcony Swimming Pool View - 3BHK Sanaathana Chamanthi</image:title>
+    </image:image>
+  </url>
+</urlset>

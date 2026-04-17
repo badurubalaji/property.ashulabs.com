@@ -1,0 +1,23 @@
+{
+  "name": "3BHK for Sale - Sanaathana Chamanthi, Whitefield, Bangalore",
+  "short_name": "3BHK Whitefield",
+  "description": "Spacious 1,896 sq.ft 3BHK apartment for sale at Sanaathana Chamanthi, Whitefield. Swimming pool view, modular kitchen, walk-in closet. Near ITPL & Metro. Direct from owner - zero brokerage.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#faf8f4",
+  "theme_color": "#1a1a2e",
+  "orientation": "portrait-primary",
+  "categories": ["real estate", "property"],
+  "icons": [
+    {
+      "src": "/images/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/images/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
